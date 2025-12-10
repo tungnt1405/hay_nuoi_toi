@@ -48,7 +48,7 @@ Toàn bộ nỗi đau khổ được gói gọn trong file `data.json`. Bạn ch
 Đừng hỏi tại sao, cứ tải về đi.
 
 ### Bước 2: Thay tên đổi họ
-Mở file `data.json` lên. Tìm chỗ nào có `[Tên Của Bạn]` và `[Số Tài Khoản]` thì sửa lại ngay lập tức.
+Mở file index.html lên (đừng tìm file json nữa, tui lười nên code cứng luôn rồi). Tìm chỗ nào có [Tên Của Bạn] và [Số Tài Khoản] thì sửa lại ngay lập tức.
 * **Risk:** Nếu quên sửa, tiền sẽ bay vào túi tui. (Không chịu trách nhiệm nha).
 
 ### Bước 3: Đẩy lên mạng
